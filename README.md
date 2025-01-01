@@ -31,3 +31,5 @@ ArduinoのSkechで用意された割り込みではなく、直接割り込み�
 
 SchematicとPCB\_LayoutはAutodesk-Eagleの無償版を使用し、elecrowで製造する  
 ことを想定したガーバーを作成している
+
+https://github.com/alpha010101/Asura7200/blob/master/IMG_20241230_130711078.jpg
